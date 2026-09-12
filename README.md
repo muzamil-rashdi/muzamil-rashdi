@@ -13,6 +13,9 @@ I build production web applications from data model to user interface, with a fo
 
 ## Selected work
 
+### [FastAPI RBAC Boilerplate](https://github.com/muzamil-rashdi/fastapi-rbac-boilerplate)
+Public, inspectable reference implementation for tenant-scoped authorization, centralized RBAC policy, isolation tests, and GitHub Actions quality gates.
+
 ### [Multi-Tenant Real Estate Platform](https://github.com/muzamil-rashdi/multi-tenant-real-estate-platform)
 Public architecture case study covering tenant isolation, service boundaries, identity realms, asynchronous workflows, and operator/customer applications. The production implementation remains private and no client code or data is published.
 
